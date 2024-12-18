@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaisyDoyle
-- 👀 I’m interested in computational medical physics
-- 🌱 I’m currently building a monte carlo simulation of cells responding to proton therapy
-- 💞️ I’m looking to collaborate on anything!
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently working on a fraud detection project
+- 💞️ I’m looking to collaborate on projects using pandas and scikit learn
 - 📫 daisympdoyle@gmail.com
 
 <!---
